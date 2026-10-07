@@ -6,7 +6,7 @@
 
 
 Deixarei aqui alguns dos meus projetos e estudos.
-- Sou formada em Análise e Desenvolvimento de Sistemas (UMC) e em MBA Pós-Graduação em CyberSecurity e CyberCrimes (UMC)
+- Sou formada em Análise e Desenvolvimento de Sistemas (UMC) e MBA Pós-Graduação em CyberSecurity e CyberCrimes (UMC)
 
 ##
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zuccashido&show_icons=true&bg_color=ffecfd&title_color=ff2ae8&icon_color=ff2ae8&locale=pt-br) 
